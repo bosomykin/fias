@@ -17,3 +17,6 @@ EXEC master.dbo.sp_addlinkedsrvlogin
     @rmtuser  = N'bdo' ,
     @rmtpassword = '12345678';
 GO
+--2. Создание базы
+CREATE DATABASE DIR_FIAS;
+GO
