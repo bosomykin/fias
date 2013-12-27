@@ -1,4 +1,6 @@
 /*Bosomykin 25.12.2013
+
+*/
 USE [master]
 GO
 EXEC master.dbo.sp_addlinkedserver 
